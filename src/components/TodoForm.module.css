@@ -1,0 +1,19 @@
+.formTodo {
+  width: 40%;
+  border: 2px solid coral;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: burlywood;
+  -webkit-box-shadow: 9px 6px 14px 4px rgba(34, 60, 80, 0.22);
+  -moz-box-shadow: 9px 6px 14px 4px rgba(34, 60, 80, 0.22);
+  box-shadow: 9px 6px 14px 4px rgba(34, 60, 80, 0.22);
+}
+.formTodo > input {
+  width: 100%;
+  margin-top: 10px;
+  height: 25px;
+  border-radius: 7px;
+  border: 1px teal;
+  padding: 0 10px;
+}
